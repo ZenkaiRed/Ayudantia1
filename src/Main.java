@@ -19,5 +19,7 @@ public class Main {
         StdOut.println(cita.getTipoConsulta());
         StdOut.println(cita.getFecha());
 
+        System.out.println("hola");
+
     }
 }
