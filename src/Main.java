@@ -19,5 +19,7 @@ public class Main {
         StdOut.println(cita.getTipoConsulta());
         StdOut.println(cita.getFecha());
 
+        StdOut.println("chao");
+
     }
 }
